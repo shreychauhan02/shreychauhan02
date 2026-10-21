@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Pytorch,Deep Learning**
 
-- 👯 I’m looking to collaborate on [Rider Project](https://github.com/shreychauhan02/gig-worker-profit-optimizer)
-
-- 🤝 I’m looking for help with [Rider Project](https://github.com/shreychauhan02/gig-worker-profit-optimizer)
-
 - 👨‍💻 All of my projects are available at [github.com/shreychauhan02](github.com/shreychauhan02)
 
 - 💬 Ask me about **Python, Machine Learning & Data Science**
